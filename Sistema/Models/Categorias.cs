@@ -7,8 +7,9 @@ using System.ComponentModel.DataAnnotations;
 namespace Sistema.Models
 {
     public class Categorias
-    {
-        public int CategoriaID { get; set; }
+    {   
+        [Key]
+        public int CategoriaId { get; set; }
         [Required (ErrorMessage ="Campo Obligatorio!.")]
         [StringLength(50,MinimumLength = 3,ErrorMessage ="El nombre ingresado es invalido.")]
         public string Nombre { get; set; }
