@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marian\\source\\repos\\Sistema\\Sistema\\Sistema.csproj",
+      "projectUniqueName": "C:\\Users\\Marian\\Documents\\GitHub\\MVC-Sistema-udemy\\Sistema\\Sistema.csproj",
       "projectName": "Sistema",
-      "projectPath": "C:\\Users\\Marian\\source\\repos\\Sistema\\Sistema\\Sistema.csproj",
+      "projectPath": "C:\\Users\\Marian\\Documents\\GitHub\\MVC-Sistema-udemy\\Sistema\\Sistema.csproj",
       "packagesPath": "C:\\Users\\Marian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marian\\source\\repos\\Sistema\\Sistema\\obj\\",
+      "outputPath": "C:\\Users\\Marian\\Documents\\GitHub\\MVC-Sistema-udemy\\Sistema\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
